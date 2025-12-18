@@ -34,6 +34,14 @@ public class day1 {
         System.out.println("Git Five");
     }
 
+    @Test
+    public void GitData(){
+
+
+        System.out.println("Git Command one");
+        System.out.println("Git Command Two");
+        System.out.println("Git Command Three");
+    }
 
     @AfterSuite
     public void afsuite () {

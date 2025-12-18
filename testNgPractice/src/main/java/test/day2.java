@@ -20,4 +20,12 @@ public class day2 {
     public void prerequisite (){
         System.out.println("I will execute firstt");
     }
+
+    @Test
+    public void getStringDataTwo(){
+
+
+        System.out.println("Appium Automation");
+        System.out.println("Mobile Automation");
+    }
 }
