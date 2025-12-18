@@ -28,4 +28,11 @@ public class day2 {
         System.out.println("Appium Automation");
         System.out.println("Mobile Automation");
     }
+    @Test
+    public void getStringDataThree(){
+
+
+        System.out.println("Appium Automation Three");
+        System.out.println("Mobile Automation Three");
+    }
 }
