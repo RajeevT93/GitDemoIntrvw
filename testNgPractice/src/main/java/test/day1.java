@@ -29,6 +29,9 @@ public class day1 {
     public void gitDemo(){
         System.out.println("Git One");
         System.out.println("Git Two");
+        System.out.println("Git Three");
+        System.out.println("Git Four");
+        System.out.println("Git Five");
     }
 
 
